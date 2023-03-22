@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		111EE9A629CB20DE00B3D2EC /* RagahdViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 111EE9A529CB20DE00B3D2EC /* RagahdViewController.swift */; };
 		2947438429C65AB300CFC5F2 /* UpcomingTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2947438329C65AB300CFC5F2 /* UpcomingTableViewCell.swift */; };
 		2947438629C7281D00CFC5F2 /* UpcomingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2947438529C7281D00CFC5F2 /* UpcomingViewController.swift */; };
 		2947438A29C88B5100CFC5F2 /* CoursesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2947438929C88B5100CFC5F2 /* CoursesViewController.swift */; };
@@ -21,6 +22,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		111EE9A529CB20DE00B3D2EC /* RagahdViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RagahdViewController.swift; sourceTree = "<group>"; };
 		2947438329C65AB300CFC5F2 /* UpcomingTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UpcomingTableViewCell.swift; sourceTree = "<group>"; };
 		2947438529C7281D00CFC5F2 /* UpcomingViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UpcomingViewController.swift; sourceTree = "<group>"; };
 		2947438929C88B5100CFC5F2 /* CoursesViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoursesViewController.swift; sourceTree = "<group>"; };
@@ -71,6 +73,7 @@
 				29E5775E29C390E000815AE9 /* SceneDelegate.swift */,
 				29E5776029C390E000815AE9 /* ViewController.swift */,
 				2947438929C88B5100CFC5F2 /* CoursesViewController.swift */,
+				111EE9A529CB20DE00B3D2EC /* RagahdViewController.swift */,
 				29E5776229C390E000815AE9 /* Main.storyboard */,
 				29E5776529C390E100815AE9 /* Assets.xcassets */,
 				29E5776729C390E100815AE9 /* LaunchScreen.storyboard */,
@@ -161,6 +164,7 @@
 				2947438429C65AB300CFC5F2 /* UpcomingTableViewCell.swift in Sources */,
 				29E5775D29C390E000815AE9 /* AppDelegate.swift in Sources */,
 				29E5775F29C390E000815AE9 /* SceneDelegate.swift in Sources */,
+				111EE9A629CB20DE00B3D2EC /* RagahdViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
