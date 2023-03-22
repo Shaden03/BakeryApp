@@ -19,6 +19,7 @@
 		29E5776629C390E100815AE9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 29E5776529C390E100815AE9 /* Assets.xcassets */; };
 		29E5776929C390E100815AE9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 29E5776729C390E100815AE9 /* LaunchScreen.storyboard */; };
 		29E5777129C3D4A500815AE9 /* BakeTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 29E5777029C3D4A500815AE9 /* BakeTableViewCell.swift */; };
+		D547B7A629CB476D00FB27E3 /* linqViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D547B7A529CB476D00FB27E3 /* linqViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -36,6 +37,7 @@
 		29E5776829C390E100815AE9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		29E5776A29C390E100815AE9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		29E5777029C3D4A500815AE9 /* BakeTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BakeTableViewCell.swift; sourceTree = "<group>"; };
+		D547B7A529CB476D00FB27E3 /* linqViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = linqViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,6 +54,7 @@
 		29E5775029C390E000815AE9 = {
 			isa = PBXGroup;
 			children = (
+				D547B7A529CB476D00FB27E3 /* linqViewController.swift */,
 				29E5775B29C390E000815AE9 /* Bake */,
 				29E5775A29C390E000815AE9 /* Products */,
 			);
@@ -164,6 +167,7 @@
 				2947438429C65AB300CFC5F2 /* UpcomingTableViewCell.swift in Sources */,
 				29E5775D29C390E000815AE9 /* AppDelegate.swift in Sources */,
 				29E5775F29C390E000815AE9 /* SceneDelegate.swift in Sources */,
+				D547B7A629CB476D00FB27E3 /* linqViewController.swift in Sources */,
 				111EE9A629CB20DE00B3D2EC /* RagahdViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
